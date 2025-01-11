@@ -1,0 +1,42 @@
+site_name: ELISA Directory
+repo_url: https://github.com/elisa-tech/directory
+site_url: !ENV [BASE_URL, https://directory.elisa.tech/]
+site_dir: public
+
+theme:
+  name: material
+  logo: images/elisa-logo.svg
+  favicon: images/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Open Sans
+    code: Fira Code
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - navigation.footer
+    - navigation.top
+
+extra_css:
+  - stylesheets/elisa.css
+
+use_directory_urls: false
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.pathconverter:
+      absolute: true
+  - pymdownx.tilde
+
+nav:
+  - ELISA: https://elisa.tech/
+  - Directory:
+    - Home: 'index.md'
+    - Workshops: 'workshops/index.md'
+  - OSEP: https://osep.elisa.tech/
+
+

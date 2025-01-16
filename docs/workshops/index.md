@@ -9,6 +9,28 @@ The following list contains results and work products from past ELISA workshops 
 * This is not peer-reviewed content and it is intended only as a historical record of outcomes and discussions, to provide context for current ELISA activities. 
 * Any decisions or actions based on the information in the workshop content should be made with careful consideration and further investigation as necessary.
 
+## December 2024 (Maryland)
+
+| Title | Presenter(s) | Last revisited |
+| ----- | ------------ | -------------- |
+| [Welcomes + Orientation](2024-12-Maryland/Workshop-Welcome-and-Orientation.pdf) | Michael, Philipp, Kate, Ramon | 2024-12-11 |
+| [Space Grade Linux Intro](2024-12-Maryland/Space-Grade-Linux-Intro-Michael-Monaghan-NASA.pdf) | Michael Monaghan - NASA | 2024-12-11 |
+| [Lessons from Automotive Grade Linux](2024-12-Maryland/Lessons-from-Automotive-Grade-Linux-Walt-Miner-Linux-Foundation_AGL.pdf) | Walt Miner - Linux Foundation | 2024-12-11 |
+| [Linking external Test Results to Test Cases in BASIL to support pre existing test infrastructures](2024-12-Maryland/Linking-external-Test-Results-to-Test-Cases-in-BASIL-to-support-pre-existing-test-infrastructures-Luigi-Pellecchia-Red-Hat.pdf) | Luigi Pellecchia - Red Hat | 2024-12-11 |
+| [How to use ks-nav for a feasible and meaningful test campaign in the Kernel](2024-12-Maryland/How-to-use-ks-nav-for-a-feasible-and-meaningful-test-campaign-in-the-Kernel-Alessandro-Carminati-Red-Hat.pdf) | Alessandro Carminati - Red Hat | 2024-12-11 |
+| [Verification and Validation of the OS and "certification package"](2024-12-Maryland/Verification-and-Validation-of-the-OS-and_certification-package_-Scott-Tashakkor-NASA.pdf) | Scott Tashakkor - NASA | 2024-12-11 |
+| [Test and Assurance of Non-Volatile Memory Devices for Space](2024-12-Maryland/Test-and-Assurance-of-Non-Volatile-Memory-Devices-for-Space-Ted-Wilcox-NASA.pdf) | Ted Wilcox - NASA | 2024-12-11 |
+| [Linux Kernel Design Documentation](2024-12-Maryland/Linux-Kernel-Design-Documentation-Gabriele-Paoloni-Red-Hat-Chuck-Wolber-Boeing-Kate-Stewart-Linux-Foundation.pdf) | Gabriele Paoloni - Red Hat, Chuck Wolber - Boeing, Kate Stewart - Linux Foundation | 2024-12-11 |
+| [Space Grade Linux interest survey results](2024-12-Maryland/Space-Grade-Linux-Interest-Survey-Ramon-Roche-Linux-Foundation.pdf) | Kate Stewart, Ramon Roche - Linux Foundation | 2024-12-11 |
+| [F prime](2024-12-Maryland/F-prime-Michael-Starch-NASA.pdf) | Michael Starch - NASA | 2024-12-11 |
+| [Space ROS](2024-12-Maryland/Space-ROS-Ivan-Perez-NASA.pdf) | Ivan Perez - NASA | 2024-12-11 |
+| [cFS Overview Presentation](2024-12-Maryland/cFS-Overview-Richard-Landau-NASA.pdf) | Richard Landau, Ashok Prajapati (NASA) | 2024-12-11 |
+| [Investigating the Implementation of Linux-based Payload Computers: A Review of In-Orbit Demonstrations for Edge AI in Space Missions.](2024-12-Maryland/Investigating-the-Implementation-of-Linux-based-Payload-Computers_A-Review-of-In-Orbit-Demonstrations-for-Edge-AI-in-Space-Missions-Dongshik-Won-TelePIX-Co-Ltd.pdf) | Dongshik Won - TelePIX Co., Ltd. | 2024-12-11 |
+| [Container and immutable patterns for operating systems and workloads](2024-12-Maryland/Container-and-immutable-patterns-for-operating-systems-and-workloads-Michael-Epley-Tony-James-Red-Hat.pdf) | Michael Epley, Tony James - Red Hat | 2024-12-11 |
+| [Containerization in Space: Podman for Mission-Critical Operations and Resilience](2024-12-Maryland/Containerization-in-Space_Podman-for-Mission-Critical-Operations-and-Resilience_-Dan-Walsh-Red-Hat.pdf) | Dan Walsh, Douglas Schilling Landgraf -Red Hat | 2024-12-11 |
+| [Real Time Linux update](2024-12-Maryland/Real-Time-Linux-Update-Steven-Rostedt-Google.pdf) | Steven Rostedt - Google | 2024-12-11 |
+| [Building an OSS Ecosystem for Space](2024-12-Maryland/Building-an-OSS-Ecosystem-for-Space-Tim-Bird-Sony.pdf) | Tim Bird - Sony | 2024-12-11 |
+
 ## June 2024 (Lund)
 
 | Title | Presenter(s) | Last revisited |

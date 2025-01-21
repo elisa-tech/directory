@@ -20,7 +20,7 @@ The following list contains results and work products from past ELISA workshops 
 | [How to use ks-nav for a feasible and meaningful test campaign in the Kernel](2024-12-Maryland/How-to-use-ks-nav-for-a-feasible-and-meaningful-test-campaign-in-the-Kernel-Alessandro-Carminati-Red-Hat.pdf) | Alessandro Carminati - Red Hat | 2024-12-11 |
 | [Verification and Validation of the OS and "certification package"](2024-12-Maryland/Verification-and-Validation-of-the-OS-and_certification-package_-Scott-Tashakkor-NASA.pdf) | Scott Tashakkor - NASA | 2024-12-11 |
 | [Test and Assurance of Non-Volatile Memory Devices for Space](2024-12-Maryland/Test-and-Assurance-of-Non-Volatile-Memory-Devices-for-Space-Ted-Wilcox-NASA.pdf) | Ted Wilcox - NASA | 2024-12-11 |
-| [Linux Kernel Design Documentation](2024-12-Maryland/Linux-Kernel-Design-Documentation-Gabriele-Paoloni-Red-Hat-Chuck-Wolber-Boeing-Kate-Stewart-Linux-Foundation.pdf) | Gabriele Paoloni - Red Hat, Chuck Wolber - Boeing, Kate Stewart - Linux Foundation | 2024-12-11 |
+| [Linux Kernel Design Documentation](2024-12-Maryland/Linux-Kernel-Design-Documentation-Gabriele-Paoloni-Red-Hat-Chuck-Wolber-Boeing-Kate-Stewart-Linux-Foundation.pdf) | Gabriele Paoloni - Red Hat, Chuck Wolber, Kate Stewart - Linux Foundation | 2024-12-11 |
 | [Space Grade Linux interest survey results](2024-12-Maryland/Space-Grade-Linux-Interest-Survey-Ramon-Roche-Linux-Foundation.pdf) | Kate Stewart, Ramon Roche - Linux Foundation | 2024-12-11 |
 | [F prime](2024-12-Maryland/F-prime-Michael-Starch-NASA.pdf) | Michael Starch - NASA | 2024-12-11 |
 | [Space ROS](2024-12-Maryland/Space-ROS-Ivan-Perez-NASA.pdf) | Ivan Perez - NASA | 2024-12-11 |

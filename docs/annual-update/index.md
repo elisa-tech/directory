@@ -27,7 +27,7 @@ The updates typically include the following topics:
 | [Automotive (part of Systems)](2025-02/Systems_and_Automotive_WG_Updates_2025.pdf)| Philipp Ahmann | 2025-02-24 |
 | [Linux Features](2025-02/Linux_Features_WG_Updates_2025.pdf)| Alessandro Carminati | 2025-02-24 |
 | [Medical](2025-02/Medical_Devices_WG_Updates_2025.pdf) | Kate Stewart | 2025-02-24 |
-| [OS Engineering Process](2025-02/OSEP_WG_Updates_2025.pdf)| Paul Albertella | 2025-02-24 |
+| [Open Source Engineering Process](2025-02/OSEP_WG_Updates_2025.pdf)| Paul Albertella | 2025-02-24 |
 | [Space Grade Linux](2025-02/Space_Grade_Linux_SIG_Updates_2025.pdf)| Ramon Roche | 2025-02-24 |
 | [Systems (with Automotive)](2025-02/Systems_and_Automotive_WG_Updates_2025.pdf)| Philipp Ahmann | 2025-02-24 |
 | [Tools](2025-02/Tools_WG_Updates_2025.pdf)| Matt Kelly | 2025-02-24 |
@@ -44,7 +44,7 @@ The updates typically include the following topics:
 | [Automotive](2024-01/ELISA-automotive-wg-update-Jan2024.pdf)| Philipp Ahmann | 2024-01-17 |
 | [Linux Features](2024-01/ELISA-LFSC-annual-update-Jan2024.pdf)| Elana Copperman | 2024-01-17 |
 | [Medical](2024-01/ELISA-medical-wg-update-Jan2024.pdf) | Kate Stewart & Milan Lakhani | 2024-01-17 |
-| [OS Engineering Process](2024-01/ELISA-OSEP-wg-update-Jan2024.pdf) | Paul Albertella | 2024-01-17 |
+| [Open Source Engineering Process](2024-01/ELISA-OSEP-wg-update-Jan2024.pdf) | Paul Albertella | 2024-01-17 |
 | [Systems](2024-01/ELISA-systems-wg-update-Jan2024.pdf)| Philipp Ahmann | 2024-01-17 |
 | [Tools](2024-01/ELISA-tools-wg-update-Jan2024.pdf)| Matt Kelly | 2024-01-17 |
 

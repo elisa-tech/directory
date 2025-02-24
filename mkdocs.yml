@@ -37,6 +37,7 @@ nav:
   - Directory:
     - Home: 'index.md'
     - Workshops: 'workshops/index.md'
+    - Annual Updates: 'annual-update/index.md'
   - OSEP: https://osep.elisa.tech/
 
 

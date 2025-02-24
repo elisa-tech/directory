@@ -24,7 +24,7 @@ The updates typically include the following topics:
 | [Project Overview](2025-02/ELISA_Project_Overview_2025.pdf)| Philipp Ahmann | 2025-02-24 |
 | [Aerospace](2025-02/Aerospace_WG_Updates_2025.pdf) | Matthew Weber & Dr. Martin Halle | 2025-02-24 |
 | [Architecture](2025-02/Safety_Architecture_WG_Updates_2025.pdf)| Gabriele Paoloni | 2025-02-24 |
-| [Automotive (part of Systems](2025-02/Systems_and_Automotive_WG_Updates_2025.pdf)| Philipp Ahmann | 2025-02-24 |
+| [Automotive (part of Systems)](2025-02/Systems_and_Automotive_WG_Updates_2025.pdf)| Philipp Ahmann | 2025-02-24 |
 | [Linux Features](2025-02/Linux_Features_WG_Updates_2025.pdf)| Alessandro Carminati | 2025-02-24 |
 | [Medical](2025-02/Medical_Devices_WG_Updates_2025.pdf) | Kate Stewart | 2025-02-24 |
 | [OS Engineering Process](2025-02/OSEP_WG_Updates_2025.pdf)| Paul Albertella | 2025-02-24 |

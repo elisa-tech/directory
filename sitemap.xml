@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://directory.elisa.tech/index.html</loc>
-         <lastmod>2025-01-21</lastmod>
+         <lastmod>2025-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://directory.elisa.tech/annual-update/index.html</loc>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://directory.elisa.tech/workshops/index.html</loc>
-         <lastmod>2025-01-21</lastmod>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

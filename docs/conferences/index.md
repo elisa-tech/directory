@@ -1,6 +1,6 @@
 # Conference Presentation Archive
 
-ELISA project members actively engaging in open source events and share results in form of talks and presentation.
+ELISA project members actively engage in open source events and share results in the form of talks and presentations.
 
 This section collects presentation samples.
 

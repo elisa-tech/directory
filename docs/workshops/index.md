@@ -9,6 +9,28 @@ The following list contains results and work products from past ELISA workshops 
 * This is not peer-reviewed content and it is intended only as a historical record of outcomes and discussions, to provide context for current ELISA activities. 
 * Any decisions or actions based on the information in the workshop content should be made with careful consideration and further investigation as necessary.
 
+## May 2025 (Lund)
+
+| Title | Presenter(s) | Last revisited |
+| ----- | ------------ | -------------- |
+| [Welcome & Introductions](2025-05-Lund/1-1-Welcome_Introductions.pdf) | Philipp Ahmann, ETAS GmbH; Kate Stewart, Linux Foundation; Robert Fekete, Volvo Cars |2025-05-09 |
+| [Ask Me Anything about ELISA or Use of OSS in Safety Critical Applications](2025-05-Lund/1-2-Ask_me_anything.pdf) | Philipp Ahmann, ETAS GmbH; Gabriele Paoloni, Red Hat |2025-05-09 |
+| [Arduino Portenta X8 as a community reference hardware for safe systems](2025-05-Lund/1-3_Arduino_Portenta_X8_as_a_community_reference_hardware_for_safe_systems.pdf) | David Cuartielles, Arduino |2025-05-09 |
+| [Example System within ELISA as Cross Community Effort with AGL, Eclipse S-Core, KernelCI, Xen, Zephyr, and more](2025-05-Lund/1-4-Example_System.pdf) | Philipp Ahmann, ETAS GmbH; Yuichi Kusakabe, Honda Motors |2025-05-09 |
+| [Interaction between ELISA and Adjacent Communities such as Eclipse, Linaro, Rust, SPDX, Yocto, and more](2025-05-Lund/1-5-Community_interaction.pdf) | Kate Stewart, Linux Foundation; Philipp Ahmann, ETAS GmbH |2025-05-09 |
+| [Safety Linux vs Safe(ty) Linux](2025-05-Lund/2-1-Safe_vs_safety.pdf) | Philipp Ahmann, ETAS GmbH; Paul Albertella, Codethink |2025-05-09 |
+| [How far do we go at the hardware level? An analysis of current state of kernel and integration](2025-05-Lund/2-2_How_far_do_we_go_at_the_hardware_level.pdf) | Olivier Charrier, Wind River; Alessandro Carminati, Red Hat |2025-05-09 |
+| [PX4Space](2025-05-Lund/2-3_PX4Space.pdf) | Pedro Roque, KTH Royal Institute of Technology |2025-05-09 |
+| [SPDX Safety Profile](2025-05-Lund/2-4_SPDX_Safety_Profile.pdf) | Nicole Pappler, AlektoMetis |2025-05-09 |
+| [Safe Continuous Deployment](2025-05-Lund/2-5_Safe_Continuous_Deployment.pdf) | Håkan Sivcernona, Volvo Cars |2025-05-09 |
+| [Resilient Safety Analysis and Qualification](2025-05-Lund/2-6_Resilient_Safety_Analysis_and_Qualification.pdf) | Igor Stoppa, Nvidia |2025-05-09 |
+| [KernelCI, BASIL & Testing](2025-05-Lund/2-7_KernelCI,_BASIL_&_Testing.pdf) | Luigi Pelliccia, Red Hat; Gustavo Padovan, Collabora |2025-05-09 |
+| [Requirements Traceability](2025-05-Lund/2-8_Linux_Kernel_Requirements.pdf) | Kate Stewart, Linux Foundation; Gabriele Paoloni, Red Hat | 2025-05-09 |
+| [Trustable Software Framework](2025-05-Lund/3-1_Trustable_Software_Framework.pdf) | Paul Albertella, Codethink; Daniel Krippner, ETAS GmbH |2025-05-09 |
+| [Review Role of Rust in Safety Critical Applications and Explore Potential Implication for ELISA](2025-05-Lund/3-2_Rust_in_Safety_Critical_Applications_and_Implications_for_ELISA.pdf) | Paul Albertella, Codethink; Daniel Krippner, ETAS GmbH |2025-05-09 |
+| [Best Practices Standard](2025-05-Lund/3-3_Best_Practices_Standard.pdf) | Philipp Ahmann, ETAS GmbH; Gabriele Paoloni, Red Hat; Olivier Charrier, Wind River |2025-05-09 |
+| [Workshop wrap-up](2025-05-Lund/3-4_Wrap-up.pdf) | Philipp Ahmann, ETAS GmbH; Kate Stewart, Linux Foundation |2025-05-09 |
+
 ## December 2024 (Maryland)
 
 | Title | Presenter(s) | Last revisited |

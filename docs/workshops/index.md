@@ -22,9 +22,9 @@ The following list contains results and work products from past ELISA workshops 
 | [How far do we go at the hardware level? An analysis of current state of kernel and integration](2025-05-Lund/2-2_How_far_do_we_go_at_the_hardware_level.pdf) | Olivier Charrier, Wind River; Alessandro Carminati, Red Hat |2025-05-09 |
 | [PX4Space](2025-05-Lund/2-3_PX4Space.pdf) | Pedro Roque, KTH Royal Institute of Technology |2025-05-09 |
 | [SPDX Safety Profile](2025-05-Lund/2-4_SPDX_Safety_Profile.pdf) | Nicole Pappler, AlektoMetis |2025-05-09 |
-| [Safe Continuous Deployment](2025-05-Lund/2-5_Safe_Continuous_Deployment.pdf) | Håkan Sivcernona, Volvo Cars |2025-05-09 |
+| [Safe Continuous Deployment](2025-05-Lund/2-5_Safe_Continuous_Deployment.pdf) | Håkan Sivencrona, Volvo Cars |2025-05-09 |
 | [Resilient Safety Analysis and Qualification](2025-05-Lund/2-6_Resilient_Safety_Analysis_and_Qualification.pdf) | Igor Stoppa, Nvidia |2025-05-09 |
-| [KernelCI, BASIL & Testing](2025-05-Lund/2-7_KernelCI,_BASIL_&_Testing.pdf) | Luigi Pelliccia, Red Hat; Gustavo Padovan, Collabora |2025-05-09 |
+| [KernelCI, BASIL & Testing](2025-05-Lund/2-7_KernelCI,_BASIL_&_Testing.pdf) | Luigi Pellecchia, Red Hat; Gustavo Padovan, Collabora |2025-05-09 |
 | [Requirements Traceability](2025-05-Lund/2-8_Linux_Kernel_Requirements.pdf) | Kate Stewart, Linux Foundation; Gabriele Paoloni, Red Hat | 2025-05-09 |
 | [Trustable Software Framework](2025-05-Lund/3-1_Trustable_Software_Framework.pdf) | Paul Albertella, Codethink; Daniel Krippner, ETAS GmbH |2025-05-09 |
 | [Review Role of Rust in Safety Critical Applications and Explore Potential Implication for ELISA](2025-05-Lund/3-2_Rust_in_Safety_Critical_Applications_and_Implications_for_ELISA.pdf) | Paul Albertella, Codethink; Daniel Krippner, ETAS GmbH |2025-05-09 |

@@ -24,12 +24,12 @@ The following list contains results and work products from past ELISA workshops 
 | [SPDX Safety Profile](2025-05-Lund/2-4_SPDX_Safety_Profile.pdf) | Nicole Pappler, AlektoMetis |2025-05-09 |
 | [Safe Continuous Deployment](2025-05-Lund/2-5_Safe_Continuous_Deployment.pdf) | Håkan Sivencrona, Volvo Cars |2025-05-09 |
 | [Resilient Safety Analysis and Qualification](2025-05-Lund/2-6_Resilient_Safety_Analysis_and_Qualification.pdf) | Igor Stoppa, Nvidia |2025-05-09 |
-| [KernelCI, BASIL & Testing](2025-05-Lund/2-7_KernelCI,_BASIL_&_Testing.pdf) | Luigi Pellecchia, Red Hat; Gustavo Padovan, Collabora |2025-05-09 |
+| [KernelCI, BASIL & Testing](2025-05-Lund/2-7_KernelCI_BASIL_&_Testing.pdf) | Luigi Pellechcia, Red Hat; Gustavo Padovan, Collabora |2025-05-09 |
 | [Requirements Traceability](2025-05-Lund/2-8_Linux_Kernel_Requirements.pdf) | Kate Stewart, Linux Foundation; Gabriele Paoloni, Red Hat | 2025-05-09 |
 | [Trustable Software Framework](2025-05-Lund/3-1_Trustable_Software_Framework.pdf) | Paul Albertella, Codethink; Daniel Krippner, ETAS GmbH |2025-05-09 |
 | [Review Role of Rust in Safety Critical Applications and Explore Potential Implication for ELISA](2025-05-Lund/3-2_Rust_in_Safety_Critical_Applications_and_Implications_for_ELISA.pdf) | Paul Albertella, Codethink; Daniel Krippner, ETAS GmbH |2025-05-09 |
-| [Best Practices Standard](2025-05-Lund/3-3_Best_Practices_Standard.pdf) | Philipp Ahmann, ETAS GmbH; Gabriele Paoloni, Red Hat; Olivier Charrier, Wind River |2025-05-09 |
-| [Workshop wrap-up](2025-05-Lund/3-4_Wrap-up.pdf) | Philipp Ahmann, ETAS GmbH; Kate Stewart, Linux Foundation |2025-05-09 |
+| [Best Practices Standard](2025-05-Lund/3-3-Best_Practices_Standard.pdf) | Philipp Ahmann, ETAS GmbH; Gabriele Paoloni, Red Hat; Olivier Charrier, Wind River |2025-05-09 |
+| [Workshop wrap-up](2025-05-Lund/3-4-Wrap-up.pdf) | Philipp Ahmann, ETAS GmbH; Kate Stewart, Linux Foundation |2025-05-09 |
 
 ## December 2024 (Maryland)
 

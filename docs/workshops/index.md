@@ -9,7 +9,7 @@ The following list contains results and work products from past ELISA workshops 
 * This is not peer-reviewed content and it is intended only as a historical record of outcomes and discussions, to provide context for current ELISA activities. 
 * Any decisions or actions based on the information in the workshop content should be made with careful consideration and further investigation as necessary.
 
-## May 2025 (Lund)
+## November 2025 (Munich)
 
 | Title | Presenter(s) | Last revisited |
 | ----- | ------------ | -------------- |

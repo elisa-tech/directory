@@ -14,7 +14,7 @@ The following list contains results and work products from past ELISA workshops 
 | Title | Presenter(s) | Last revisited |
 | ----- | ------------ | -------------- |
 | [Welcome & Introductions](2025-11-Munich/1-1-Welcome_Introductions.pdf) | Gabriele Paoloni, Red Hat; Kate Stewart, Linux Foundation; Philipp Ahmann, ETAS GmbH |2025-11-20 |
-| [Ask Me Anything – New Contributor Onboarding](22025-11-Munich/1-2-Ask_me_anything.pdf) | Gabriele Paoloni, Red Hat; Philipp Ahmann, ETAS GmbH |2025-11-20 |
+| [Ask Me Anything – New Contributor Onboarding](2025-11-Munich/1-2-Ask_me_anything.pdf) | Gabriele Paoloni, Red Hat; Philipp Ahmann, ETAS GmbH |2025-11-20 |
 | [Research questions and publication directions of Aerospace WG](2025-11-Munich/1-3-Martin-Research_questions_and_publication_directions_of_Aerospace_WG.pdf) | Martin Halle, Hamburg University of Technology – Institute of Aircraft Systems Engineering, Matthew Weber, Boeing |2025-11-20 |
 | [Towards Practical Program Verification for the Linux Kernel](2025-11-Munich/1-4-Keisuke_Nishimura_-_Towards_Practical_Program_Verification_for_the_Linux_Kernel.pdf) | Keisuke NISHIMURA, Inria |2025-11-20 |
 | [Towards a More Sustainable and Secure Software Tooling in Free/Libre Open Source Software Environments](2025-11-Munich/1-5-Stefan_-_Towards_a_More_Sustainable_and_Secure_Software_Tooling_in_Free_Libre_Open_Source_Software_Environments.pdf) | Stefan Tatschner, Fraunhofer AISEC |2025-11-20 |

@@ -13,6 +13,31 @@ The following list contains results and work products from past ELISA workshops 
 
 | Title | Presenter(s) | Last revisited |
 | ----- | ------------ | -------------- |
+| [Welcome & Introductions](2025-11-Munich/1-1-Welcome_Introductions.pdf) | Gabriele Paoloni, Red Hat; Kate Stewart, Linux Foundation; Philipp Ahmann, ETAS GmbH |2025-11-20 |
+| [Ask Me Anything – New Contributor Onboarding](22025-11-Munich/1-2-Ask_me_anything.pdf) | Gabriele Paoloni, Red Hat; Philipp Ahmann, ETAS GmbH |2025-11-20 |
+| [Research questions and publication directions of Aerospace WG](2025-11-Munich/1-3-Martin-Research_questions_and_publication_directions_of_Aerospace_WG.pdf) | Martin Halle, Hamburg University of Technology – Institute of Aircraft Systems Engineering, Matthew Weber, Boeing |2025-11-20 |
+| [Towards Practical Program Verification for the Linux Kernel](2025-11-Munich/1-4-Keisuke_Nishimura_-_Towards_Practical_Program_Verification_for_the_Linux_Kernel.pdf) | Keisuke NISHIMURA, Inria |2025-11-20 |
+| [Towards a More Sustainable and Secure Software Tooling in Free/Libre Open Source Software Environments](2025-11-Munich/1-5-Stefan_-_Towards_a_More_Sustainable_and_Secure_Software_Tooling_in_Free_Libre_Open_Source_Software_Environments.pdf) | Stefan Tatschner, Fraunhofer AISEC |2025-11-20 |
+| [Introducing SW Requirements in the Linux kernel development process: status and next steps](2025-11-Munich/1-6-Gab_Introducing_SW_Requirements_in_the_Linux_kernel_development_process__status_and_next_steps.pptx.pdf) | Gabriele Paoloni, Red Hat; Kate Stewart, Linux Foundation; Chuck Wolber, Boeing |2025-11-20 |
+| [Exploring possibilities for integrating StrictDoc with ELISA’s requirements template approach for the Linux kernel](2025-11-Munich/1-7-Tobias-Stanislav-2025-11-18_20_—_ELISA_Workshop_Munich_Germany.pdf) | Tobias Deiminger, Linutronix; Stanislav Pankevich, Reflex Aerospace |2025-11-20 |
+| [Architectures for Linux in Railway Safety Applications](2025-11-Munich/2-1-Florian_-_Architectures_for_Linux_in_Railway_Safety_Applications.pdf) | Florian Wühr, Red Hat; Daniel Weingaertner, Red Hat |2025-11-20 |
+| [Hypervisors are scary, so why use them for enabling Linux for Safety Applications](2025-11-Munich/2-2-Aqib_Javaid_-_Hypervisors_are_scary_so_why_use_them_for_enabling_Linux_for_Safety_Applications.pdf) | Aqib Javaid, Elektrobit |2025-11-20 |
+| [Open Functional Safety: Safety-Qualified Lifecycle with Sphinx](2025-11-Munich/2-3-Christopher_Zimmer_-_Open_Functional_Safety__Safety-Qualified_Lifecycle_with_Sphinx.pdf) | Christopher Zimmer, innotec GmbH |2025-11-20 |
+| [AGL SDV SoDeV Insights](2025-11-Munich/2-4-Naoto_Yamaguchi_-_AGL_SDV_SoDeV_Insights.pdf) | Naoto Yamaguchi, AISIN; Harunobu Kurokawa, Renesas |2025-11-20 |
+| [Best Practices in Open Source and Standards – Evaluation of Example Projects](2025-11-Munich/2-5-Simone_Weiss_-_Best_Practices_in_Open_Source_and_Standards_–_Evaluation_of_Example_Projects.pdf) | Simone Weiss, Linutronix |2025-11-20 |
+| [Beyond the OS: What else is required for safe automotive applications?](2025-11-Munich/2-6-Isaac_Trefz_-_Beyond_the_OS__What_else_is_required_for_safe_automotive_applications_.pdf) | Isaac Trefz, Elektrobit |2025-11-20 |
+| [BASIL](2025-11-Munich/2-7-Luigi_-_BASIL.pdf) | Luigi Pellecchia, Red Hat |2025-11-20 |
+| [Continuous Compliance in Safety-Critical Open Source Projects](2025-11-Munich/2-8-Rinat-CC_Presentation_for_ELISA_Workshop_Munich_2025_v.1.1.pdf) | Rinat Shagisultanov, InfoMagnus |2025-11-20 |
+| [Industry Safety Level(s) vs. Aerospace Use Cases](2025-11-Munich/2-9-Matt_Webber_-_Industry_Safety_Levels_vs_Aerospace_Use_Cases.pdf) | Matthew Weber, Boeing |2025-11-20 |
+| [Linux Virtual Address Space Safety](2025-11-Munich/3-1-Alessandro_-_Linux_Virtual_Address_Space_Safety.pdf) | Alessandro Carminati, Red Hat |2025-11-20 |
+| [Behind the Scenes: Elisa Yocto meta-layer and the ELISA CI infrastructure](2025-11-Munich/3-2-Sudip_-_Behind_the_Scenes__Elisa_Yocto_meta-layer_and_the_ELISA_CI_infrastructure.pdf) | Sudip Mukherjee, Codethink |2025-11-20 |
+| [The SPDX Safety Profile Release Candidate – towards standardised safety supply chain documentation](2025-11-Munich/3-3-Nicole_-The_SPDX_Safety_Profile_Release_Candidate_–_towards_standardised_safety_supply_chain_documentation.pdf) | Nicole Pappler, AlektoMetis |2025-11-20 |
+| [Drawing an open source safety-critical landscape](2025-11-Munich/3-4-Philipp-Drawing_an_open_source_safety-critical_landscape.pdf) | Philipp Ahmann, ETAS GmbH |2025-11-20 |
+
+## May 2025 (Lund)
+
+| Title | Presenter(s) | Last revisited |
+| ----- | ------------ | -------------- |
 | [Welcome & Introductions](2025-05-Lund/1-1-Welcome_Introductions.pdf) | Philipp Ahmann, ETAS GmbH; Kate Stewart, Linux Foundation; Robert Fekete, Volvo Cars |2025-05-09 |
 | [Ask Me Anything about ELISA or Use of OSS in Safety Critical Applications](2025-05-Lund/1-2-Ask_me_anything.pdf) | Philipp Ahmann, ETAS GmbH; Gabriele Paoloni, Red Hat |2025-05-09 |
 | [Arduino Portenta X8 as a community reference hardware for safe systems](2025-05-Lund/1-3_Arduino_Portenta_X8_as_a_community_reference_hardware_for_safe_systems.pdf) | David Cuartielles, Arduino |2025-05-09 |

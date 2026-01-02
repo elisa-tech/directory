@@ -34,6 +34,8 @@ The following list contains results and work products from past ELISA workshops 
 | [The SPDX Safety Profile Release Candidate – towards standardised safety supply chain documentation](2025-11-Munich/3-3-Nicole_-The_SPDX_Safety_Profile_Release_Candidate_–_towards_standardised_safety_supply_chain_documentation.pdf) | Nicole Pappler, AlektoMetis |2025-11-20 |
 | [Drawing an open source safety-critical landscape](2025-11-Munich/3-4-Philipp-Drawing_an_open_source_safety-critical_landscape.pdf) | Philipp Ahmann, ETAS GmbH |2025-11-20 |
 
+[YouTube recordings](https://www.youtube.com/playlist?list=PLuDNrzTpK8zq7fzNfZBjM7NFEqMkmfsRs)
+
 ## May 2025 (Lund)
 
 | Title | Presenter(s) | Last revisited |
@@ -56,6 +58,8 @@ The following list contains results and work products from past ELISA workshops 
 | [Best Practices Standard](2025-05-Lund/3-3-Best_Practices_Standard.pdf) | Philipp Ahmann, ETAS GmbH; Gabriele Paoloni, Red Hat; Olivier Charrier, Wind River |2025-05-09 |
 | [Workshop wrap-up](2025-05-Lund/3-4-Wrap-up.pdf) | Philipp Ahmann, ETAS GmbH; Kate Stewart, Linux Foundation |2025-05-09 |
 
+[YouTube recordings](https://www.youtube.com/playlist?list=PLuDNrzTpK8zoR5lFgWERVnaX3wL_U3j3f)
+
 ## December 2024 (Maryland)
 
 | Title | Presenter(s) | Last revisited |
@@ -77,6 +81,8 @@ The following list contains results and work products from past ELISA workshops 
 | [Containerization in Space: Podman for Mission-Critical Operations and Resilience](2024-12-Maryland/Containerization-in-Space_Podman-for-Mission-Critical-Operations-and-Resilience_-Dan-Walsh-Red-Hat.pdf) | Dan Walsh, Douglas Schilling Landgraf -Red Hat | 2024-12-11 |
 | [Real Time Linux update](2024-12-Maryland/Real-Time-Linux-Update-Steven-Rostedt-Google.pdf) | Steven Rostedt - Google | 2024-12-11 |
 | [Building an OSS Ecosystem for Space](2024-12-Maryland/Building-an-OSS-Ecosystem-for-Space-Tim-Bird-Sony.pdf) | Tim Bird - Sony | 2024-12-11 |
+
+[YouTube recordings](https://www.youtube.com/playlist?list=PLuDNrzTpK8zqUX6OEuh2hEz3vmqyjlwYu)
 
 ## June 2024 (Lund)
 

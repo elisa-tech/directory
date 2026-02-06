@@ -68,7 +68,7 @@ Please note:
 
 Further material:
 
-[1]: SWEBOOK - Guide to the Software Engineering Body of Knowledge v4.0a, Released Sept 2025, EDITOR Hironori Washizaki, Waseda University, IEEE Computer Society 2025, https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf
+[1]: SWEBOOK - Guide to the Software Engineering Body of Knowledge v4.0a, Released Sept 2025, EDITOR Hironori Washizaki, Waseda University, IEEE Computer Society 2025, [https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf)
 
-[2] STPA - STPA Handbook, March 2018, Nancy G. Leveson & John P. Thomas, https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf
+[2] STPA - STPA Handbook, March 2018, Nancy G. Leveson & John P. Thomas, [https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf](https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf)
 

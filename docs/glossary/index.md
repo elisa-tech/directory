@@ -56,8 +56,7 @@ Please note:
 | Severity | Is a rating of the potential harm (like damage to people, equipment, the environment, or other assets) from a system malfunction.|
 | SIL (Safety Integrity Level) | The qualification of integrity used to define in a standardized way a set of properties of a system, in a wide range of industry fields: aerospace, railways, etc. They go from SIL 4, more restrictive, to SIL 1, less stringent. |
 | SPDX | Short for System Package Data Exchange, is a standardized way to track software components, including their licenses, copyrights, and security information, promoting transparency in software development. |
-| STPA (System-Theoretic Process Analysis) | "A relatively new hazard analysis technique based on an extended model of accident causation. In addition to component failures, STPA assumes that accidents
-can also be caused by unsafe interactions of system components, none of which may have failed." [2] |
+| STPA (System-Theoretic Process Analysis) | "A relatively new hazard analysis technique based on an extended model of accident causation. In addition to component failures, STPA assumes that accidents can also be caused by unsafe interactions of system components, none of which may have failed." [2] |
 | SW-Element | Generally refers to a software component or module of software within a larger software system. |
 | System | Is a set of components that act together as a whole to achieve some  common goal, objective, or end. A system may contain subsystems and may also be part of a larger system. |
 | System Design | Is the overall system architecture, hardware architecture, software architecture, modules, interfaces, data management, and communication among modules. Reference [1] p.316 |

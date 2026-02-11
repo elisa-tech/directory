@@ -444,7 +444,7 @@
 
 
 <h1 id="glossary">Glossary</h1>
-<p>The following list contains terms and their meaning used in ELISA's workgroups, workshops, meetings and other activities.</p>
+<p>The following list contains terms and their meaning used in ELISA's working groups, workshops, meetings and other activities.</p>
 <p>Please note:</p>
 <ul>
 <li>This content should not be relied upon as definitive or final guidance from ELISA</li>
@@ -459,8 +459,12 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;">Assumptions of Use (AoU)</td>
+<td style="text-align: left;">AoU (Assumption of Use)</td>
 <td style="text-align: left;">Generally refers to conditions or assumptions about how a system will be used. These could include environmental factors, user interactions, and operational constraints.</td>
+</tr>
+<tr>
+<td style="text-align: left;">ARP4754</td>
+<td style="text-align: left;">Aerospace Recommended Practice (ARP) Guidelines for Development of Civil Aircraft and Systems, published at SAE International, dealing with the development processes which support certification of Aircraft systems.</td>
 </tr>
 <tr>
 <td style="text-align: left;">ASIL (Automotive Safety Integrity Level)</td>
@@ -504,7 +508,7 @@
 </tr>
 <tr>
 <td style="text-align: left;">Fault</td>
-<td style="text-align: left;">An “imperfection or deficiency in a work product where that work product does not meet its requirements or specifications and needs or be either repaired or replaced. Reference [1] p. 248</td>
+<td style="text-align: left;">An "imperfection" or deficiency in a work product where that work product does not meet its requirements or specifications and needs or be either repaired or replaced. Reference [1] p. 248</td>
 </tr>
 <tr>
 <td style="text-align: left;">Functional safety</td>
@@ -528,7 +532,7 @@
 </tr>
 <tr>
 <td style="text-align: left;">ISO 26262</td>
-<td style="text-align: left;">A standard that specifies the safety requirements for electrical and/or electronic systems within production automobiles defined by functional safety.</td>
+<td style="text-align: left;">A standard that specifies the safety requirements for electrical and/or electronic systems within production automobiles defined by functional safety. Derived from and related to IEC 61508.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Item</td>
@@ -567,6 +571,10 @@
 <td style="text-align: left;">Relation or likelihood of the hazardous event and the event consequence severity. The risk is reduced to a tolerable level by applying safety functions which may consist of E/E/PES, associated mechanical devices, or other technologies.</td>
 </tr>
 <tr>
+<td style="text-align: left;">Route 3S</td>
+<td style="text-align: left;">Certification pathway according to IEC 61508 for pre-existing software. Assessment of non-compliant development demonstrating compliance with the requirements of this standard for the avoidance and control of systematic faults in software. “S” stands for the “systematic capability”.</td>
+</tr>
+<tr>
 <td style="text-align: left;">Safe</td>
 <td style="text-align: left;">Generally refers to being free from harm, danger, or risk.</td>
 </tr>
@@ -585,10 +593,6 @@
 <tr>
 <td style="text-align: left;">Safety case</td>
 <td style="text-align: left;">A structured argument, supported by evidence, intended to justify that a system is acceptably safe for a specific application in a specific operating environment.</td>
-</tr>
-<tr>
-<td style="text-align: left;">Safety element out of context</td>
-<td style="text-align: left;">A safety-related element which is not developed in a particular context, but with assumptions of use for the assumed context of operation.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Safety Integrity Standard</td>
@@ -627,6 +631,10 @@
 <td style="text-align: left;">standards designed to ensure the safety of products, activities and processes, etc.</td>
 </tr>
 <tr>
+<td style="text-align: left;">SEooC (Safety element out of context)</td>
+<td style="text-align: left;">A safety-related element which is not developed in a particular context, but with assumptions of use for the assumed context of operation. Term used in ISO 26262.</td>
+</tr>
+<tr>
 <td style="text-align: left;">Severity</td>
 <td style="text-align: left;">Is a rating of the potential harm (like damage to people, equipment, the environment, or other assets) from a system malfunction.</td>
 </tr>
@@ -637,6 +645,10 @@
 <tr>
 <td style="text-align: left;">SPDX</td>
 <td style="text-align: left;">Short for System Package Data Exchange, is a standardized way to track software components, including their licenses, copyrights, and security information, promoting transparency in software development.</td>
+</tr>
+<tr>
+<td style="text-align: left;">STPA (System-Theoretic Process Analysis)</td>
+<td style="text-align: left;">"A relatively new hazard analysis technique based on an extended model of accident causation. In addition to component failures, STPA assumes that accidents can also be caused by unsafe interactions of system components, none of which may have failed." [2]</td>
 </tr>
 <tr>
 <td style="text-align: left;">SW-Element</td>
@@ -656,7 +668,7 @@
 </tr>
 <tr>
 <td style="text-align: left;">V-Model</td>
-<td style="text-align: left;">A development process, often considered an extension of the Waterfall Model. The left side deals with specification and design, the V bends at code implementation and on the right side of the “V” various levels of testing are executes. This model demonstrates the relationships between each phase of the development lifecycle and its corresponding testing phase. The horizontal and vertical axes represent the progression of time or project completeness (left-to-right) and the level of abstraction – starting with the most coarse-grained concepts at the top. The V-Model is not directly demanded in standards like IEC 61508, but many demands of the software development lifecycles referenced referenced in it are related to it.</td>
+<td style="text-align: left;">A development process, often considered as an extension of the Waterfall Model. The left side deals with specification and design, the V bends at code implementation and on the right side of the “V” various levels of testing are executes. This model demonstrates the relationships between each phase of the development lifecycle and its corresponding testing phase. The horizontal and vertical axes represent the progression of time or project completeness (left-to-right) and the level of abstraction – starting with the most coarse-grained concepts at the top. The V-Model is not directly demanded in standards like IEC 61508, but many demands of the software development lifecycle referenced in it are related to it.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Validation</td>
@@ -664,12 +676,13 @@
 </tr>
 <tr>
 <td style="text-align: left;">Verification</td>
-<td style="text-align: left;">Ensures that the product is built correctly in that the output products of a life cycle phase meet the specifications imposed on them in previous phases. Verification is defined as “the process of evaluating a system or component to determine whether the products of a given development phase satisfy the conditions imposed at the start of that phase". (Reference [1] p.257) May  involve peer reviews, inspections, and testing.</td>
+<td style="text-align: left;">Ensures that the product is built correctly in that the output products of a lifecycle phase meet the specifications imposed on them in previous phases. Verification is defined as “the process of evaluating a system or component to determine whether the products of a given development phase satisfy the conditions imposed at the start of that phase". (Reference [1] p.257) May  involve peer reviews, inspections, and testing.</td>
 </tr>
 </tbody>
 </table>
-<p>Further material:
-[1]: SWEBOOK - Guide to the Software Engineering Body of Knowledge v4.0a, Released Sept 2025, EDITOR Hironori Washizaki, Waseda University, IEEE Computer Society 2025, https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf</p>
+<p>Further material:</p>
+<p>[1]: SWEBOOK - Guide to the Software Engineering Body of Knowledge v4.0a, Released Sept 2025, EDITOR Hironori Washizaki, Waseda University, IEEE Computer Society 2025, <a href="https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf">https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf</a></p>
+<p>[2] STPA - STPA Handbook, March 2018, Nancy G. Leveson &amp; John P. Thomas, <a href="https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf">https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf</a></p>
 
 
 

@@ -17,6 +17,24 @@ The updates typically include the following topics:
 * This is not peer-reviewed content and it is intended only as a historical record of outcomes and discussions, to provide context for current ELISA activities. 
 * Any decisions or actions based on the information in the workshop content should be made with careful consideration and further investigation as necessary.
 
+## February 2026
+
+| Topic | Presenter(s) | Last revisited |
+| ----- | ------------ | -------------- |
+| [Project Overview](2026-02/ELISA_Project_Overview_2026.pdf)| Philipp Ahmann | 2026-02-12 |
+| [Aerospace](2026-02/Aerospace_WG_Updates_2026.pdf) | Matthew Weber | 2026-02-12 |
+| [Architecture](2026-02/Safety_Architecture_WG_Updates_2026.pdf)| Gabriele Paoloni | 2026-02-12 |
+| [Automotive (part of Systems)](2026-02/Systems_and_Automotive_WG_Updates_2026.pdf)| Philipp Ahmann | 2026-02-12 |
+| [BASIL & Tools ] (...) | Luigi Pellecchia | 2026-02-12 |
+| [Lighthouse](2026-02/Systems_and_Automotive_WG_Updates_2026.pdf)| Philipp Ahmann | 2026-02-12 |
+| [Linux Features](2026-02/Linux_Features_WG_Updates_2026.pdf)| Alessandro Carminati | 2026-02-12 |
+| [Open Source Engineering Process](2026-02/OSEP_WG_Updates_2026.pdf)| Paul Albertella | 2026-02-12 |
+| [Space Grade Linux](2026-02/Space_Grade_Linux_SIG_Updates_2026.pdf)| Ramon Roche | 2026-02-12 |
+| [Systems (with Automotive)](2026-02/Systems_and_Automotive_WG_Updates_2026.pdf)| Philipp Ahmann | 2026-02-12 |
+
+
+[YouTube recordings] (...)
+
 ## February 2025
 
 | Topic | Presenter(s) | Last revisited |
@@ -32,7 +50,7 @@ The updates typically include the following topics:
 | [Systems (with Automotive)](2025-02/Systems_and_Automotive_WG_Updates_2025.pdf)| Philipp Ahmann | 2025-02-24 |
 | [Tools](2025-02/Tools_WG_Updates_2025.pdf)| Matt Kelly | 2025-02-24 |
 
- [YouTube recordings](https://www.youtube.com/playlist?list=PLuDNrzTpK8zqkRmHEDxIuULGob00YUaou)
+[YouTube recordings](https://www.youtube.com/playlist?list=PLuDNrzTpK8zqkRmHEDxIuULGob00YUaou)
 
 ## January 2024
 

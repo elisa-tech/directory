@@ -88,6 +88,7 @@ The following list contains results and work products from past ELISA workshops 
 
 | Title | Presenter(s) | Last revisited |
 | ----- | ------------ | -------------- |
+| [A primer on Nix](2024-06-Lund/2024_ELISA_Nix_Primer.pdf) | Erin van der Veen , Matthias Meschede | 2026-02-17 |
 | [Overall engineering approach to safety with systems involving Linux](2024-06-Lund/Overall-engineering-approach-to-safety-with-systems-involving-Linux.pdf) | Paul Albertella, Igor Stoppa | 2024-11-13 |
 
 ## October 2023 (Munich)

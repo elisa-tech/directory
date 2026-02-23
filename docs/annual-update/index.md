@@ -25,7 +25,7 @@ The updates typically include the following topics:
 | [Aerospace](2026-02/Aerospace_WG_Updates_2026.pdf) | Matthew Weber | 2026-02-12 |
 | [Architecture](2026-02/Safety_Architecture_WG_Updates_2026.pdf)| Gabriele Paoloni | 2026-02-12 |
 | [Automotive (part of Systems)](2026-02/Systems_and_Automotive_WG_Updates_2026.pdf)| Philipp Ahmann | 2026-02-12 |
-| [BASIL & Tools ] (...) | Luigi Pellecchia | 2026-02-12 |
+| [BASIL & Tools ](2026-02/BASIL_Updates_2026.pdf) | Luigi Pellecchia | 2026-02-12 |
 | [Lighthouse](2026-02/Lighthouse_SIG_Updates_2026.pdf)| Philipp Ahmann | 2026-02-12 |
 | [Linux Features](2026-02/Linux_Features_WG_Updates_2026.pdf)| Alessandro Carminati | 2026-02-12 |
 | [Open Source Engineering Process](2026-02/OSEP_WG_Updates_2026.pdf)| Paul Albertella | 2026-02-12 |
@@ -33,7 +33,7 @@ The updates typically include the following topics:
 | [Systems (with Automotive)](2026-02/Systems_and_Automotive_WG_Updates_2026.pdf)| Philipp Ahmann | 2026-02-12 |
 
 
-[YouTube recordings] (...)
+[YouTube recordings](https://youtube.com/playlist?list=PLuDNrzTpK8zqrxo5pVv0Qezfy3aYKv3CI&si)
 
 ## February 2025
 

@@ -16,6 +16,7 @@ This section collects presentation samples.
 
 | Conference | Topic | Presenter(s) | Last revisited |
 | ---------- | ----- | ------------ | -------------- |
+| Open Source Summit Japan 2025 | [Decoding Safe(ty) Linux Architectural Approaches for Critical Systems](2025-12-10_safety_linux_archs_philipp_ahmann.pdf)| Philipp Ahmann | 2025-12-10 |
 | COSCUP 2025 | [The Way for Safe Systems Constructed by Open SourceSoftware](2025-08-10_COSCUP-Safe-Systems-by-OSS-Philipp-Ahmann.pdf)| Philipp Ahmann | 2025-08-10 |
 | Open Source Summit North America 2025 | [Developing a Community-Driven Standard for Open SourceSoftware Quality](2025-06-25_OSS_Quality_Paoloni_Ahmann.pdf)| Philipp Ahmann, Gabriele Paoloni | 2025-06-25 |
 | Embedded World Conference 2025 | [OSS in safety critical applications](2025-03-12-ewc-oss-in-safety-applications-ahmann.pdf)| Philipp Ahmann | 2025-03-12 |

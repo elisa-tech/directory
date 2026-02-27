@@ -16,4 +16,5 @@ This section collects presentation samples.
 
 | Conference | Topic | Presenter(s) | Last revisited |
 | ---------- | ----- | ------------ | -------------- |
+| Open Source Summit North America 2025 | [Developing a Community-Driven Standard for Open SourceSoftware Quality](2025-06-25_OSS_Quality_Paoloni_Ahmann.pdf)| Philipp Ahmann, Gabriele Paoloni | 2025-06-25 |
 | Embedded World Conference 2025 | [OSS in safety critical applications](2025-03-12-ewc-oss-in-safety-applications-ahmann.pdf)| Philipp Ahmann | 2025-03-12 |

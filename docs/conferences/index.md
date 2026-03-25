@@ -16,6 +16,8 @@ This section collects presentation samples.
 
 | Conference | Topic | Presenter(s) | Last revisited |
 | ---------- | ----- | ------------ | -------------- |
+| Embedded World Conference 2026 | [Open Source for Safety-Critical Systems: A Landscape Exploration](2026-03-10-ewc-PhilippAhmann_3.5_OSS_for_Safety-Critical_Systems_ELISA.pdf)| Philipp Ahmann | 2026-03-10 |
+| Embedded World Conference 2026 | [Approaches on Assessing Safe Usage of Linux](2026-03-10-ewc-Safe_Usage_of_Linux.pdf)| Kate Stewart | 2026-03-10 |
 | Open Source Summit Japan 2025 | [Decoding Safe(ty) Linux Architectural Approaches for Critical Systems](2025-12-10_safety_linux_archs_philipp_ahmann.pdf)| Philipp Ahmann | 2025-12-10 |
 | COSCUP 2025 | [The Way for Safe Systems Constructed by Open Source Software](2025-08-10_COSCUP-Safe-Systems-by-OSS-Philipp-Ahmann.pdf)| Philipp Ahmann | 2025-08-10 |
 | Open Source Summit North America 2025 | [Developing a Community-Driven Standard for Open Source Software Quality](2025-06-25_OSS_Quality_Paoloni_Ahmann.pdf)| Philipp Ahmann, Gabriele Paoloni | 2025-06-25 |

@@ -9,6 +9,34 @@ The following list contains results and work products from past ELISA workshops 
 * This is not peer-reviewed content and it is intended only as a historical record of outcomes and discussions, to provide context for current ELISA activities. 
 * Any decisions or actions based on the information in the workshop content should be made with careful consideration and further investigation as necessary.
 
+## June 2026 (London)
+
+| Title | Presenter(s) | Last revisited |
+| ----- | ------------ | -------------- |
+| [Welcome & Introductions](2026-06-London/D1-13-00_Welcome-Introductions.pdf) | Kate Stewart, Linux Foundation; Philipp Ahmann, ELISA TSC Chair; Teemu Kärkkäinen, Canonical; Jaume Rafols Borrell, Canonical | 2026-06-11 |
+| [Ask Me Anything](2026-06-London/D1-13-30_Ask-me-anything_Philipp.pdf) | Gabriele Paoloni, ELISA Governing Board Chair; Philipp Ahmann, ELISA TSC Chair | 2026-06-11 |
+| [Certifying Linux for Safety-Critical Systems: A Cybersecurity Compliance Case Study](2026-06-London/D1-14-15_Certifying_Linux_for_Safety-Critical_Systems_A_Cybersecurity_Compliance_Case_Study.pdf) | Mikel Azkarate-Askatsua, Canonical | 2026-06-11 |
+| [Longterm latency monitoring of Linux with PREEMPT_RT](2026-06-London/D1-14-45_Longterm_latency_monitoring_of_Linux_with_PREEMPT_RT.pdf) | Jan Altenberg, OSADL | 2026-06-11 |
+| [SafetyGuard – Watchdog Software](2026-06-London/D1-15-45_SafetyGuard_–_Watchdog_Software_Sathishkumar_Duraisamy.pdf) | Sathishkumar Duraisamy, SDuraiEngineer; Philipp Ahmann, ETAS GmbH | 2026-06-11 |
+| [Development status of AGL SoDeV](2026-06-London/D1-16-30_Development_status_of_AGL_SoDeV.pdf) | Yuichi Kusakabe, Honda Motor Co., Ltd. | 2026-06-11 |
+| [Functional safety with Xen, Zephyr and Linux for avionics, automotive and industrial](2026-06-London/D1-17-00_Functional_safety_with_Xen,_Zephyr_and_Linux_for_avionics,_automotive_and_industrial.pdf) | Matthew Weber, The Boeing Company; Ayan Kumar Halder, AMD | 2026-06-11 |
+| [Introduction: AI based tooling used during a project development lifecycle and different market views](2026-06-London/D2-09-00_Introduction_AI_based_tooling.pdf) | Olivier Charrier, Wind River | 2026-06-11 |
+| [Taming the Violation Tsunami: Using AI to Tailor Static Code Analysis for Safe Linux](2026-06-London/D2-09-15_Taming_the_Violation_Tsunami_Using_AI_to_Tailor_Static_Code_Analysis_for_Safe_Linux.pdf) | Eli Gurvitz, NVIDIA | 2026-06-11 |
+| [Applying AI to safety-critical product development](2026-06-London/D2-10-00_Applying_AI_to_safety-critical_product_development.pdf) | Nicola Di Miscio, NVIDIA; Francesco Saracino, NVIDIA | 2026-06-11 |
+| [Facilitated feedback and discussion and comparison of market's views of AI based tooling](2026-06-London/D2-10-45_Facilitated_feedback_and_discussion_and_comparison_of_markets_views_of_AI_based_tooling.pdf) | Olivier Charrier, Wind River | 2026-06-11 |
+| [From Best Practices to Evidence: How SWH and SWHID Support Trustworthy Open Source](2026-06-London/D2-11-45_From_Best_Practices_to_Evidence_How_SWH_and_SWHID_Support_Trustworthy_Open_Source.pdf) | Wendi Urribarri, Woven by Toyota | 2026-06-11 |
+| [Improving kernel test coverage with stress-ng](2026-06-London/D2-13-15_Improving_kernel_test_coverage_with_stress-ng_Colin_King.pdf) | Colin King, stress-ng maintainer | 2026-06-11 |
+| [BASIL](2026-06-London/D2-14-00_BASIL.pdf) | Luigi Pellecchia, Red Hat | 2026-06-11 |
+| [Railways SIG Introduction](2026-06-London/D2-14-15_Railways_SIG_Introduction.pdf) | Henrik Brändle, Institute for Rail Vehicles, RWTH Aachen University | 2026-06-11 |
+| [What overall approach to enable Linux in safety applications can we recommend?](2026-06-London/D2-14-30_What_overall_approach_to_enable_Linux_in_safety_applications_can_we_recommend_.pdf) | Paul Albertella, Codethink; Igor Stoppa, NVIDIA; Pete Brink, UL Solutions | 2026-06-11 |
+| [A PoC Based Framework to Evaluate Linux VMA Criticalities in Safety-Critical Systems](2026-06-London/D2-16-15_A_PoC_Based_Framework_to_Evaluate_Linux_VMA_Criticalities_in_Safety-Critical_Systems.pdf) | Alessandro Carminati, NVIDIA | 2026-06-11 |
+| [Defining Linux Kernel Requirements and Test Specifications out of the Kernel Tree](2026-06-London/D2-17-00_Defining_Linux_Kernel_Requirements_and_Test_Specifications_out_of_the_Kernel_Tree.pdf) | Gabriele Paoloni, Red Hat; Kate Stewart, Linux Foundation; Chuck Wolber, The Boeing Company | 2026-06-11 |
+| [NVIDIA Linux for Safety: A System Level View](2026-06-London/D3-09-00_NVIDIA_Linux_for_Safety_A_System_Level_View.pdf) | Igor Stoppa, NVIDIA | 2026-06-11 |
+| [Comparing ELISA Lighthouse OSS SIG Checklist with Existing OSS Best-Practice Frameworks](2026-06-London/D3-10-00_Comparing_ELISA_Lighthouse_OSS_SIG_Checklist_with_Existing_OSS_Best-Practice_Frameworks.pdf) | Wendi Urribarri, Woven by Toyota | 2026-06-11 |
+| [Lightning Talk: Eclipse S-CORE and AoUs to the Operating System](2026-06-London/D3-11-15_Lightning-S-CORE_Philipp.pdf) | Philipp Ahmann, ETAS GmbH | 2026-06-11 |
+
+YouTube recordings will be added once available.
+
 ## November 2025 (Munich)
 
 | Title | Presenter(s) | Last revisited |

@@ -16,6 +16,7 @@ This section collects presentation samples.
 
 | Conference | Topic | Presenter(s) | Last revisited |
 | ---------- | ----- | ------------ | -------------- |
+| Exida Automotive Symposium 2026 | [Open Source Best Practices as a Foundation for Quality Management](2026-10-28-exida-symposium-philipp-ahmann.pdf)| Philipp Ahmann | 2026-10-28 |
 | Embedded World Conference 2026 | [Open Source for Safety-Critical Systems: A Landscape Exploration](2026-03-10-ewc-PhilippAhmann_3.5_OSS_for_Safety-Critical_Systems_ELISA.pdf)| Philipp Ahmann | 2026-03-10 |
 | Embedded World Conference 2026 | [Approaches on Assessing Safe Usage of Linux](2026-03-10-ewc-Safe_Usage_of_Linux.pdf)| Kate Stewart | 2026-03-10 |
 | Open Source Summit Japan 2025 | [Decoding Safe(ty) Linux Architectural Approaches for Critical Systems](2025-12-10_safety_linux_archs_philipp_ahmann.pdf)| Philipp Ahmann | 2025-12-10 |
